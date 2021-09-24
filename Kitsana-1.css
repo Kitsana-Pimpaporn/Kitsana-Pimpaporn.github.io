@@ -74,9 +74,9 @@ html,body {
     margin: auto;
     padding: 15px;
     margin-bottom: 20px;
-    border-radius: 10px
-    
+    border-radius: 10px;
 }
+
 .PROFI {
     font-size: 25px;
 }
@@ -145,11 +145,4 @@ html,body {
     float:right;
     margin-right:500px;
     margin-top: 150px;
-}
-.carousel-OUT {
-    width: 550px;
-    height: 500px;
-    margin: 500px;
-    margin-top: 150px
-    
 }
